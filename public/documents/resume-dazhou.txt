@@ -1,0 +1,127 @@
+DAZHOU
+
+Gender: Male
+Ethnicity: Han
+Native Place: Ningbo, Zhejiang
+Contact Information: 15356093052
+Email: 16961599@qq.com
+Current Location: Hangzhou
+Preferred Location: Hangzhou
+Preferred Positions: Python Software Development Intern or Automation Control Engineer Intern
+
+================================================================================
+EDUCATION BACKGROUND
+================================================================================
+
+2018.9 - 2021.6    Yuyao High School
+
+2021.9 - 2025.7    Hangzhou Dianzi University
+                   Automation | Bachelor's Degree
+                   
+2025.9 - 2026.7    University of Manchester
+                   Robotics | Master's Degree
+
+Academic Performance: Undergraduate GPA 4.1/5.0
+
+Professional Courses: 
+- Machine Vision
+- Analog Circuit Technology
+- Principles of Automatic Control
+- Deep Learning
+- Computer Networks
+
+Honors at School: 
+National College Students' Intelligent Robot Competition, Fighting Group, 
+Third Prize at Provincial Level
+
+================================================================================
+PROFESSIONAL SKILLS
+================================================================================
+
+• Python programming language, familiar with Java language and its ecosystem
+
+• Proficient in PyTorch and PaddlePaddle deep learning frameworks, with 
+  experience in model development and optimization
+
+• Capable of conducting relevant transfer learning using PaddleOCR or Yolo models
+
+• Spring ecosystem (Spring Boot, Spring MVC, MyBatis)
+
+• Able to design and optimize databases using MySQL and MongoDB, and proficient 
+  in database performance tuning
+
+• Familiar with development tools such as Anaconda and PyCharm, with strong 
+  engineering development capabilities
+
+• Familiar with ROS ecosystem
+
+• Language proficiency: IELTS 7.0, CET-6 passed
+
+================================================================================
+COMPETITION EXPERIENCE
+================================================================================
+
+1. Image Processing and Motion Control
+   During the competition, to achieve the goal of vehicle debugging and control, 
+   I was responsible for writing the code for image processing and motion control 
+   algorithms in the Python software development environment. I utilized sensors 
+   such as cameras and single-line LiDAR to complete the low-level steering of 
+   the servo and the movement control of the motor.
+
+2. Common Bug Fixing
+   Bugs frequently occurred in the software. I was familiar with disassembling 
+   the entire system, conducting breakpoint testing, and other methods to correct 
+   and optimize severe bugs, ultimately ensuring the smooth and efficient 
+   operation of the software system.
+
+3. Technical Document Compilation
+   According to the competition requirements, I summarized, analyzed, and 
+   archived the team's technologies, and compiled technical files.
+
+4. Team Organization, Planning, and Communication Skills
+   To rationally plan team goals and share team information, I completed the 
+   efficient operation of the organization and maintained a harmonious team 
+   atmosphere by pre-planning task goals and communicating with team members.
+
+================================================================================
+INTERNSHIP EXPERIENCE
+================================================================================
+
+Hangzhou Huidian Information Co., Ltd. | Back-end Developer (Python Direction)
+Jun 2024 - Sep 2024
+
+1. Developed a document processing system based on deep learning and seal 
+   recognition: Utilized PyTorch and paddlepaddle OCR for seal recognition, 
+   and integrated Tesseract OCR to build a text recognition pipeline.
+
+2. Designed a contract comparison engine: Employed OpenCV template matching 
+   and text similarity algorithm (Cosine Similarity) to automatically mark 
+   differences in contract terms.
+
+3. Setup a team shared development environment (Docker + GitLab), encapsulated 
+   Python programs using Docker, and collaborated with Java back-end developers 
+   for data transmission. Managed versions using Markdown + Git.
+
+--------------------------------------------------------------------------------
+
+Hangzhou Wonder-Light Smart Energy Co., Ltd. | Python Development Intern
+Jun 2025 - Sep 2025
+
+• Engineered an intelligent obscuration detection system for solar panels 
+  utilizing Python and OpenCV for image preprocessing and augmentation.
+
+• Trained and fine-tuned custom deep learning models using YOLO for object 
+  detection and U-Net (or similar) for semantic segmentation to accurately 
+  identify and locate obstructions like bird droppings, dust, and leaves.
+
+• Developed an image processing module to perform pixel-level analysis on 
+  detected regions, precisely calculating the percentage of obscuration area 
+  to assess impact on power generation efficiency.
+
+• Improved the model's mean Average Precision (mAP) on the test set by 
+  optimizing hyperparameters and applying data augmentation techniques, 
+  effectively supporting the O&M team's cleaning decisions.
+
+================================================================================
+END OF RESUME
+================================================================================
